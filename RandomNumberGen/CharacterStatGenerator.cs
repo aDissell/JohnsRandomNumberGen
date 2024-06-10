@@ -17,7 +17,7 @@ namespace RandomNumberGen
             return stat;
             
         }
-
+        // this is my comment
         private void button1_Click(object sender, EventArgs e)
         {
             int ReturnedStat;
